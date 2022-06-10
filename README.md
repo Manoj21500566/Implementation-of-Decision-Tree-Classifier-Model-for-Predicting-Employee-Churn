@@ -52,7 +52,53 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![decision tree classifier model](sam.png)
+Data Head:
+
+
+![A1](https://user-images.githubusercontent.com/94588708/172999634-e5277459-e238-458e-9d2f-b6c75d28e644.png)
+
+Information:
+
+
+![A2](https://user-images.githubusercontent.com/94588708/172999716-340b5ebd-1005-4909-9a4a-e87b6fc2728f.png)
+
+
+Null dataset:
+
+
+![A3](https://user-images.githubusercontent.com/94588708/172999781-f023e802-927c-4262-a539-8e840518ee7a.png)
+
+Value_counys():
+
+
+![A4](https://user-images.githubusercontent.com/94588708/172999831-804e1f7f-f176-47e7-96fb-c6ab5671d70e.png)
+
+Data Head:
+
+
+![A5](https://user-images.githubusercontent.com/94588708/172999882-b34736bb-35fd-4741-a91f-a75d65f18e7e.png)
+
+x.head():
+
+
+![A6](https://user-images.githubusercontent.com/94588708/172999927-ff6ac057-849d-47c9-99fc-123a87ded6fe.png)
+
+
+Accuracy:
+
+![A7](https://user-images.githubusercontent.com/94588708/172999982-d7fb1aaa-074c-4762-bfa4-f72d5e0370e1.png)
+
+
+Data Prediction:
+
+
+![A8](https://user-images.githubusercontent.com/94588708/173000016-93552aa9-f72d-4c71-a07f-7d54d0312813.png)
+
+
+
+
+
+
 
 
 ## Result:
